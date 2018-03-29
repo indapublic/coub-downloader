@@ -1,0 +1,8 @@
+input {
+  padding: 5px;
+  margin: 10px;
+}
+
+[type="text"] {
+  width: 300px;
+}
